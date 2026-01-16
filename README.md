@@ -25,7 +25,11 @@ A small, fundamental project using Azure Vision and AWS S3 for image upload and 
 ## 🌱 Currently Learning
 - Full‑stack development  
 - Cloud services  
-- Software architecture fundamentals  
+- Software architecture fundamentals
+
+## 🎓 Certificates
+- Introduction to Cybersecurity (Cisco / Credly)
+- Cisco Networking Academy – Beginner‑level cybersecurity and networking modules
 
 ## 📫 Contact
 You can reach me on **LinkedIn**.
