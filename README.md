@@ -21,7 +21,16 @@ Oulu, Finland
 ## 🚀 Projects
 
 ### 🎬 **Movie App (React Native)**
-A 15 ECTS team project built with React Native and Node.js. Focuses on UI layout, navigation, API fetching, and clean component structure.
+A 15 ECTS team project to build a full‑stack movie web application for film enthusiasts. The app uses The Movie Database API and includes a responsive React frontend, a Node.js backend, and a PostgreSQL database. 
+Key features:
+- User registration, login, logout, and account deletion
+- Movie and TV show search with multiple filters
+- “Now in theatres” view for movies currently playing in Finland
+- User‑created groups with membership requests, approvals, and removals
+- Group pages where members can add movies
+- Movie reviews with text, star ratings, username, and timestamp
+- Browsing all reviews on the site - Personal favorites list with shareable URL
+- One additional self‑designed feature - Automated REST API tests (positive + negative cases)
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/movie-web-app) <br><br>
 
