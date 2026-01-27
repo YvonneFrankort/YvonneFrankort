@@ -21,7 +21,7 @@ Oulu, Finland
 ## 🚀 Projects
 
 ### 🎬 **Movie App (React Native)**
-A 15 ECTS team project built with React Native and Expo. Focuses on UI layout, navigation, API fetching, and clean component structure.
+A 15 ECTS team project built with React Native and Node.js. Focuses on UI layout, navigation, API fetching, and clean component structure.
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/movie-web-app) <br><br>
 
@@ -33,7 +33,7 @@ A 15 ECTS team project simulating a fully functioning ATM. Includes RFID login, 
 
 
 ### 🌾 **Bluegrass Guide (Full‑Stack)**
-A personal volunteer project combining React, Node.js, Express.js, and SQL. Includes authentication, API routes, and a responsive interface.
+A personal volunteer project combining React, local storage, and multiple public APIs. Includes authentication, API routes, and a responsive interface.
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/Kentucky-Bluegrass-Guide) <br><br>
 
