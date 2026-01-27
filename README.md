@@ -38,7 +38,16 @@ Key features:
 
 
 ### 💖 Barbie ATM (Full‑Stack + RFID + Qt) 
-A 15 ECTS team project simulating a fully functioning ATM. Includes RFID login, Qt UI, Node.js REST API, MySQL database, credit/debit accounts, and transaction history.
+A 15 ECTS full‑stack team project simulating a fully functional ATM system. The project includes an RFID-based login system, a Qt desktop UI, a Node.js REST API, and a MySQL database. 
+
+Key features: 
+- RFID card authentication
+- Account overview (credit & debit)
+- Withdrawals, deposits, and transfers
+- Transaction history
+- Secure REST API with database integration
+- Modular architecture (frontend Qt app + backend Node.js server)
+- Full project documentation and diagrams
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/ATM-project) <br><br>
 
