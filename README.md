@@ -29,8 +29,10 @@ Key features:
 - User‑created groups with membership requests, approvals, and removals
 - Group pages where members can add movies
 - Movie reviews with text, star ratings, username, and timestamp
-- Browsing all reviews on the site - Personal favorites list with shareable URL
-- One additional self‑designed feature - Automated REST API tests (positive + negative cases)
+- Browsing all reviews on the site
+- Personal favorites list with shareable URL
+- additional self‑designed feature (shop, reward system)
+- Automated REST API tests (positive + negative cases)
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/movie-web-app) <br><br>
 
