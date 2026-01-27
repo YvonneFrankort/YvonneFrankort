@@ -44,7 +44,17 @@ A 15 ECTS team project simulating a fully functioning ATM. Includes RFID login, 
 
 
 ### 🌾 **Bluegrass Guide (Full‑Stack)**
-A personal volunteer project combining React, local storage, and multiple public APIs. Includes authentication, API routes, and a responsive interface.
+A personal SPA-style web application built for the “Web-sovellusten perusteet” course. The project includes several enhancements beyond the basic course requirements, such as multiple API integrations, SPA‑style navigation, and persistent data storage using LocalStorage. 
+
+Key features: 
+- Fully responsive layout with clean UI design
+- SPA-style navigation without page reloads
+- Multiple public APIs for dynamic content
+- LocalStorage for saving user data
+- Interactive components and multi-view structure
+- Clear documentation and version control practices
+
+This project demonstrates practical skills in JavaScript logic, API usage, responsive design, and building a small but complete web application independently.
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/Kentucky-Bluegrass-Guide) <br><br>
 
