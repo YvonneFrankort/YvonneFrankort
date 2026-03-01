@@ -69,8 +69,23 @@ This project demonstrates practical skills in JavaScript logic, API usage, respo
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/Kentucky-Bluegrass-Guide) <br><br>
 
 
+### 🕹️ Speden Spelit – Arduino Microcontroller Game
+A 4-person team project for a first-year microcontroller course. Built a memory/skill game on Arduino with LEDs, buttons, and 7-segment displays, implementing modular C++ code for game logic, interrupts, and timers.
+
+Key features:
+- Modular Arduino code: buttons, LEDs, display, and gamelogic
+- Hardware interaction: 7-segment display, multiple LEDs, push buttons
+- Timer-based random number generation and game state checking
+- Implemented a competitive “high-score” logic for group play
+- Team project with full documentation and test programs<br><br>
+
+---
+## 📚 Courses
+
 ### ☁️ **Cloud Image Analysis (Course Project)**
-A small course project using Azure Vision and AWS S3 for image upload and analysis. Gave me practical experience with cloud workflows and basic API integration.
+A small course project using Azure Vision and AWS S3 for image upload and analysis. Gave me practical experience with cloud workflows and basic API integration.<br><br>
+
+
 
 ### 📱 Mobile Development Courses
 - **Mobile Programming – Kotlin**: Android course with Jetpack Compose, MVVM, Room, and APKs.
