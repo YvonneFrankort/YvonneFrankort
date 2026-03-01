@@ -79,6 +79,8 @@ Key features:
 - Implemented a competitive “high-score” logic for group play
 - Team project with full documentation and test programs<br><br>
 
+🔗 [GitHub Repository](https://github.com/YvonneFrankort/speden-spelit-arduino)
+
 ---
 ## 📚 Courses
 
