@@ -10,9 +10,10 @@ Oulu, Finland
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** C, C++, Python, Java, JavaScript  
+- **Languages:** C, C++, Python, Java, JavaScript, Kotlin, TypeScript
+- **Mobile Development:** Android (Jetpack Compose, MVVM, Room), React Native
 - **Web & Backend:** React, Node.js, Express.js  
-- **Databases:** SQL  
+- **Databases:** SQL, MySQL, Firebase, (basic NoSQL exposure)
 - **Cloud:** AWS S3, Azure Vision  
 - **Other:** Git, GitHub, REST APIs
 
@@ -70,6 +71,10 @@ This project demonstrates practical skills in JavaScript logic, API usage, respo
 
 ### ☁️ **Cloud Image Analysis (Course Project)**
 A small course project using Azure Vision and AWS S3 for image upload and analysis. Gave me practical experience with cloud workflows and basic API integration.
+
+### 📱 Mobile Development Courses
+- **Mobile Programming – Kotlin**: Android course with Jetpack Compose, MVVM, Room, and APKs.
+- **Mobile‑Development – React Native**: Hybrid mobile course with React Native, TypeScript, and Firebase.
 
 ---
 
