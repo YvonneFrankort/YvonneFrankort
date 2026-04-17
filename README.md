@@ -61,7 +61,7 @@ Team project simulating an ATM system with Qt frontend, Node.js backend, and MyS
 
 - RFID authentication system
 - Account transactions (withdraw, deposit, transfer)
-- REST API backend with database integration
+- database integration
 - System-level architecture design
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/ATM-project) <br><br>
