@@ -1,6 +1,6 @@
 # Hi, I'm Yvonne 👋
 
-I'm an Information Technology student at Oulu University of Applied Sciences, currently in my second year and exploring different areas of **software engineering**. I enjoy learning through hands‑on projects and understanding how software works in real environments.
+I'm a 2nd-year Information Technology student at Oulu University of Applied Sciences, focusing on software development and web applications. I enjoy building full-stack projects and learning how real-world systems are designed and implemented.
 
 ---
 
@@ -10,95 +10,80 @@ Oulu, Finland
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** C, C++, Python, Java, JavaScript, Kotlin, TypeScript
-- **Mobile Development:** Android (Jetpack Compose, MVVM, Room), React Native
-- **Web & Backend:** React, Node.js, Express.js  
-- **Databases:** SQL, MySQL, Firebase, (basic NoSQL exposure)
-- **Cloud:** AWS S3, Azure Vision  
-- **Other:** Git, GitHub, REST APIs
+
+**Programming Languages:**  
+JavaScript, TypeScript, Python, Java, C, C++
+
+**Web Development:**  
+React, Node.js, Express.js, REST APIs, HTML, CSS
+
+**Mobile Development:**  
+Kotlin (Android / Jetpack Compose), React Native
+
+**Databases:**  
+MySQL, PostgreSQL, Firebase
+
+**Tools & Practices:**  
+Git, GitHub, Agile teamwork, REST API integration
+
+**Cloud & Services (basic exposure):**  
+AWS S3, Azure Vision
 
 ---
 
 ## 🚀 Projects
 
 ### 🎬 **Movie App (React Native)**
-A 15 ECTS team project to build a full‑stack movie web application for film enthusiasts. The app uses The Movie Database API and includes a responsive React frontend, a Node.js backend, and a PostgreSQL database. 
-Key features:
-- User registration, login, logout, and account deletion
-- Movie and TV show search with multiple filters
-- “Now in theatres” view for movies currently playing in Finland
-- User‑created groups with membership requests, approvals, and removals
-- Group pages where members can add movies
-- Movie reviews with text, star ratings, username, and timestamp
-- Browsing all reviews on the site
-- Personal favorites list with shareable URL
-- additional self‑designed feature (shop, reward system)
-- Automated REST API tests (positive + negative cases)
+A full-stack movie discovery platform built with React, Node.js, Express, and PostgreSQL using TMDb API.
+
+- Movie and series search with filters
+- Reviews with ratings and comments
+- Favorites system and user profiles
+- Group functionality with permissions
+- “Now in cinemas” feature
+- REST API integration and automated testing
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/movie-web-app) <br><br>
 
+### 🌾 **Kentucky Bluegrass Guide (Full‑Stack)**
+A responsive single-page web application for exploring Kentucky using real-time APIs and local storage.
 
+- Weather and event APIs
+- SPA-style navigation
+- Personal planner with persistent storage
+- Responsive UI and modular JavaScript
+
+🔗 [GitHub Repository](https://github.com/YvonneFrankort/Kentucky-Bluegrass-Guide) <br><br>
+
+## ⚙️ Other Projects
 ### 💖 Barbie ATM (Full‑Stack + RFID + Qt) 
-A 15 ECTS full‑stack team project simulating a fully functional ATM system. The project includes an RFID-based login system, a Qt desktop UI, a Node.js REST API, and a MySQL database. 
+Team project simulating an ATM system with Qt frontend, Node.js backend, and MySQL database.
 
-Key features: 
-- RFID card authentication
-- Account overview (credit & debit)
-- Withdrawals, deposits, and transfers
-- Transaction history
-- Secure REST API with database integration
-- Modular architecture (frontend Qt app + backend Node.js server)
-- Full project documentation and diagrams
+- RFID authentication system
+- Account transactions (withdraw, deposit, transfer)
+- REST API backend with database integration
+- System-level architecture design
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/ATM-project) <br><br>
 
 
-### 🌾 **Bluegrass Guide (Full‑Stack)**
-A personal SPA-style web application built for the “Web-sovellusten perusteet” course. The project includes several enhancements beyond the basic course requirements, such as multiple API integrations, SPA‑style navigation, and persistent data storage using LocalStorage. 
-
-Key features: 
-- Fully responsive layout with clean UI design
-- SPA-style navigation without page reloads
-- Multiple public APIs for dynamic content
-- LocalStorage for saving user data
-- Interactive components and multi-view structure
-- Clear documentation and version control practices
-
-This project demonstrates practical skills in JavaScript logic, API usage, responsive design, and building a small but complete web application independently.
-
-🔗 [GitHub Repository](https://github.com/YvonneFrankort/Kentucky-Bluegrass-Guide) <br><br>
-
-
 ### 🕹️ Speden Spelit – Arduino Microcontroller Game
-A 4-person team project for a first-year microcontroller course. Built a memory/skill game on Arduino with LEDs, buttons, and 7-segment displays, implementing modular C++ code for game logic, interrupts, and timers.
+First-year team project built with Arduino hardware components (LEDs, buttons, displays).
 
-Key features:
-- Modular Arduino code: buttons, LEDs, display, and gamelogic
-- Hardware interaction: 7-segment display, multiple LEDs, push buttons
-- Timer-based random number generation and game state checking
-- Implemented a competitive “high-score” logic for group play
-- Team project with full documentation and test programs<br><br>
+- Game logic using C++
+- Hardware interaction (buttons, LEDs, display)
+- Timer-based gameplay and scoring system<br><br>
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/speden-spelit-arduino)
 
 ---
-## 📚 Courses
 
-### ☁️ **Cloud Image Analysis (Course Project)**
-A small course project using Azure Vision and AWS S3 for image upload and analysis. Gave me practical experience with cloud workflows and basic API integration.<br><br>
+## 🎓 Education & Courses
 
-
-
-### 📱 Mobile Development Courses
-- **Mobile Programming – Kotlin**: Android course with Jetpack Compose, MVVM, Room, and APKs.
-- **Mobile‑Development – React Native**: Hybrid mobile course with React Native, TypeScript, and Firebase.
-
----
-
-## 🌱 Currently Learning
-- Full‑stack development  
-- Cloud services  
-- Software architecture fundamentals
+- Mobile Development (Kotlin / Android)
+- React Native Development
+- Cloud Image Analysis (Azure Vision + AWS S3)
+- Cybersecurity Fundamentals (Cisco)
 
 ---
 
