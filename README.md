@@ -11,20 +11,20 @@ Oulu, Finland
 
 ## 🛠️ Skills & Tools
 
-**Programming Languages:**  
-JavaScript, TypeScript, Python, Java, C, C++
+**Frontend:**  
+React, JavaScript, TypeScript, HTML, CSS
 
-**Web Development:**  
-React, Node.js, Express.js, REST APIs, HTML, CSS
+**Backend:**  
+Node.js, Express.js, REST APIs
 
-**Mobile Development:**  
-Kotlin (Android / Jetpack Compose), React Native
+**Mobile:**  
+Kotlin (Jetpack Compose), React Native
 
-**Databases:**  
-MySQL, PostgreSQL, Firebase
+**Databases & Cloud:**  
+PostgreSQL, MySQL, Firebase
 
-**Tools & Practices:**  
-Git, GitHub, Agile teamwork, REST API integration
+**Tools & Workflow:**  
+Git, GitHub, Agile teamwork
 
 **Cloud & Services (basic exposure):**  
 AWS S3, Azure Vision
@@ -33,46 +33,38 @@ AWS S3, Azure Vision
 
 ## 🚀 Projects
 
-### 🎬 **Movie App (React Native)**
-A full-stack movie discovery platform built with React, Node.js, Express, and PostgreSQL using TMDb API.
-
-- Movie and series search with filters
-- Reviews with ratings and comments
-- Favorites system and user profiles
-- Group functionality with permissions
-- “Now in cinemas” feature
-- REST API integration and automated testing
+### 🎬 **Movie App (Full-Stack Web)**
+React + Node.js + PostgreSQL movie discovery platform with search, reviews, favorites, user profiles, and group features.
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/movie-web-app) <br><br>
 
-### 🌾 **Kentucky Bluegrass Guide (Full‑Stack)**
-A responsive single-page web application for exploring Kentucky using real-time APIs and local storage.
+---
 
-- Weather and event APIs
-- SPA-style navigation
-- Personal planner with persistent storage
-- Responsive UI and modular JavaScript
+### 🌿 Nature Explorer (Android / Jetpack Compose)
+Mobile app for tracking walks, capturing photos, saving discoveries, and viewing them on a map and timeline.
+Includes Firebase Auth, CameraX, ML classification, Room, and polished Material 3 UI.
+
+🔗 [GitHub Repository](https://github.com/YvonneFrankort/nature-explorer-app)
+
+---
+
+### 🌾 **Kentucky Bluegrass Guide (Web)**
+Single‑page web app using real‑time APIs, local storage, and modular JavaScript.
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/Kentucky-Bluegrass-Guide) <br><br>
 
+---
+
 ## ⚙️ Other Projects
 ### 💖 Barbie ATM (Full‑Stack + RFID + Qt) 
-Team project simulating an ATM system with Qt frontend, Node.js backend, and MySQL database.
-
-- RFID authentication system
-- Account transactions (withdraw, deposit, transfer)
-- database integration
-- System-level architecture design
+Team project simulating an ATM system with RFID authentication and full backend integration.
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/ATM-project) <br><br>
 
+---
 
 ### 🕹️ Speden Spelit – Arduino Microcontroller Game
-First-year team project built with Arduino hardware components (LEDs, buttons, displays).
-
-- Game logic using C++
-- Hardware interaction (buttons, LEDs, display)
-- Timer-based gameplay and scoring system<br><br>
+Microcontroller game built with C++ and hardware components.
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/speden-spelit-arduino)
 
