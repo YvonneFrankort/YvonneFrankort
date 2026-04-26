@@ -86,4 +86,4 @@ Microcontroller game built with C++ and hardware components.
 ---
 
 ## 📫 Contact
-You can reach me on [LinkedIn](www.linkedin.com/in/yvonne-frankort-77359a38a).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/yvonne-frankort-77359a38a).
