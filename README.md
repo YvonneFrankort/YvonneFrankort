@@ -33,7 +33,10 @@ AWS S3, Azure Vision
 
 ## 🚀 Projects
 
-### 🎛️ **AI-exam Monitoring (Typescript + MediaPipe**
+### 🎛️ **Exam Monitoring Platform (React + Typescript + MediaPipe)**
+Web-based monitoring system with face detection, head‑pose tracking, gaze calibration, camera checks and real‑time student alerts.
+
+🔗 [GitHub Repository](https://github.com/YvonneFrankort/exam-monitoring-platform) <br><br>
 
 ---
 
