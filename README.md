@@ -12,7 +12,7 @@ Oulu, Finland
 ## 🛠️ Skills & Tools
 
 **Frontend:**  
-React, React Native, JavaScript, TypeScript, HTML, CSS
+React, React Native, JavaScript, TypeScript, HTML, CSS, MediaPipe (Face Landmarker, gaze & head‑pose tracking)
 
 **Backend:**  
 Node.js, Express.js, REST APIs, Firebase Auth & Firestore
@@ -21,7 +21,7 @@ Node.js, Express.js, REST APIs, Firebase Auth & Firestore
 Kotlin (Jetpack Compose), React Native
 
 **Databases & Cloud:**  
-PostgreSQL, MySQL, Firebase
+PostgreSQL, MySQL, Firebase (Firestore), Supabase
 
 **Tools & Workflow:**  
 Git, GitHub, Agile teamwork
@@ -89,13 +89,12 @@ Microcontroller game built with C++ and hardware components.
 - Mobile Development (Kotlin / Android)
 - React Native Development
 - Cloud Image Analysis (Azure Vision + AWS S3)
-- Cybersecurity Fundamentals (Cisco)
+- Cisco Networking Academy – Cybersecurity Fundamentals & Cyber Threat Management
 
 ---
 
 ## 🎓 Certificates
 - TOEFL iBT (score: 100)
-- Introduction to Cybersecurity (Cisco / Credly)
 
 ---
 
