@@ -12,10 +12,10 @@ Oulu, Finland
 ## 🛠️ Skills & Tools
 
 **Frontend:**  
-React, JavaScript, TypeScript, HTML, CSS
+React, React Native, JavaScript, TypeScript, HTML, CSS
 
 **Backend:**  
-Node.js, Express.js, REST APIs
+Node.js, Express.js, REST APIs, Firebase Auth & Firestore
 
 **Mobile:**  
 Kotlin (Jetpack Compose), React Native
@@ -32,6 +32,17 @@ AWS S3, Azure Vision
 ---
 
 ## 🚀 Projects
+
+### 🎛️**AI-exam Monitoring (Typescript + MediaPipe**
+
+---
+
+### 🩺**GlugoMate – Mobile Diabetes Assistant (React Native + Firebase)**
+A full-featured mobile app for tracking meals, carbohydrate intake, medications, and weekly nutrition trends. Includes barcode scanning, API integration, caching, charts, and a complete profile system.
+
+🔗 [GitHub Repository](https://github.com/YvonneFrankort/glugomate-app) <br><br>
+
+---
 
 ### 🎬 **Movie App (Full-Stack Web)**
 React + Node.js + PostgreSQL movie discovery platform with search, reviews, favorites, user profiles, and group features.
