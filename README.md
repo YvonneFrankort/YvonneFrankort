@@ -33,11 +33,11 @@ AWS S3, Azure Vision
 
 ## 🚀 Projects
 
-### 🎛️**AI-exam Monitoring (Typescript + MediaPipe**
+### 🎛️ **AI-exam Monitoring (Typescript + MediaPipe**
 
 ---
 
-### 🩺**GlugoMate – Mobile Diabetes Assistant (React Native + Firebase)**
+### 🩺 **GlugoMate – Mobile Diabetes Assistant (React Native + Firebase)**
 A full-featured mobile app for tracking meals, carbohydrate intake, medications, and weekly nutrition trends. Includes barcode scanning, API integration, caching, charts, and a complete profile system.
 
 🔗 [GitHub Repository](https://github.com/YvonneFrankort/glugomate-app) <br><br>
